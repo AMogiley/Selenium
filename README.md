@@ -1,2 +1,2 @@
 # selenium-stuff
-selenium stuff : \
+selenium stuff
